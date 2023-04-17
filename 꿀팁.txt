@@ -1,0 +1,5 @@
+windows powershell
+cmd
+shutdown -f : 강제종료 -t : 초단위의 시간을 입력 (7200초-> 2시간) -s : 종료
+
+재부팅 필요시 -s 대신 -r(reboot)
